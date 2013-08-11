@@ -1,0 +1,6 @@
+[submodule "whatapi"]
+	path = whatapi
+	url = https://github.com/isaaczafuta/whatapi.git
+[submodule "pygazelle"]
+	path = pygazelle
+	url = https://github.com/cohena/pygazelle.git
